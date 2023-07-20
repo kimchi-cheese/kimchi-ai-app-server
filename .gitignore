@@ -1,0 +1,20 @@
+### poetry lock ###
+poetry.lock
+
+### environment ###
+.env
+.env.development
+.env.production
+
+### virtualvenv ###
+.venv
+
+### pycache ###
+__pycache__
+__pycache__/
+__pycache__/*
+*.pyc
+
+
+### Apple ###
+.DS_Store
